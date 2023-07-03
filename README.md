@@ -6,4 +6,4 @@ I would like to express my gratitude to the Tuticorin Port Authority and the EDP
 
 
 
-This Progressive Website is a simple one with basic menus for Data Analytics and Reporting which was created using HTML5 anf Javascript.
+This Progressive Website is a simple one with basic menus for Data Analytics and Reporting which was created using HTML5 and Javascript.
